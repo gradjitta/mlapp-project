@@ -21,9 +21,9 @@ Project goal is to operationalize this working, machine learning microservice us
 
 #### Pushed the container to Docker Hub
 ```
-docker build . -t mlapp
+docker build . -t mlapp-project
 docker login
-docker tag mlapp:latest gradjitta/mlapp:latest
+docker tag mlapp-project:latest gradjitta/mlapp:latest
 docker push gradjitta/mlapp
 ```
 
