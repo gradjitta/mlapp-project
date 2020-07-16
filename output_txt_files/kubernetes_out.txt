@@ -1,0 +1,12 @@
+deployment.apps/mlapp-node created
+NAME                          READY   STATUS              RESTARTS   AGE
+mlapp-node-6d78c8fcc4-mk2f5   0/1     ContainerCreating   0          0s
+error: unable to forward port because pod is not running. Current status=Pending
+
+Error from server (AlreadyExists): deployments.apps "mlapp-node" already exists
+NAME                          READY   STATUS    RESTARTS   AGE
+mlapp-node-6d78c8fcc4-mk2f5   1/1     Running   0          2m41s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
