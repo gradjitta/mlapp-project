@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/gradjitta/mlapp-project.svg?style=svg)](https://circleci.com/gh/gradjitta/mlapp-project)
 
-## Project Overview
+## Udactiy Project 5 Overview
 
 In this project, we operationalize a Machine Learning Microservice API. 
 
